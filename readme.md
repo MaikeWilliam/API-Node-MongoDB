@@ -20,5 +20,4 @@
 
     8.1 - Enviar os users com método POST
     8.2 - Verificar se os users fornecidos estão mesmo na base de dados
-
-9 - Por fim, vamos  
+  
